@@ -45,3 +45,30 @@ Team project for developing a web-money management RT/RW based system.
 
 ---
 
+# 💡 Skills
+
+## Programming Languages
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Laravel
+- Tailwind css
+- Bootstrap
+
+## Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+- Laragon
+- Postman
+- Linux
+
+## Soft Skills
+- Leadership
+- Communication
+- Problem Solving
+- Teamwork
+
+---
