@@ -23,11 +23,25 @@ I am a Software Engineering student who is passionate about web development, sys
 Software Engineering  
 2025 - Present
 
-## SMK Negeri Example
-Computer & Network Engineering  
+## SMAIT IMAM SYAFI'I
+SAINS  
 2022 - 2025
 
-## SMA Example
+## SMPIT IMAM SYAFI'I
 2019 - 2022
 
 ---
+
+# 🚀 Projects
+
+## 💰 MoneyTrack App
+Personal finance tracking system built using Laravel.
+
+## 🛡️ Central Cyber Security Office
+Monitoring dashboard integrated with Wazuh API.
+
+## 📚 Kaswarga
+Team project for developing a web-money management RT/RW based system.
+
+---
+
