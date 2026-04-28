@@ -72,3 +72,12 @@ Team project for developing a web-money management RT/RW based system.
 - Teamwork
 
 ---
+
+# Github Stasts
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Molll16&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molll16&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+⭐ Thank you for visiting my profile!
