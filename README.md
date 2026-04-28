@@ -17,3 +17,17 @@ I am a Software Engineering student who is passionate about web development, sys
 
 ---
 
+# 🎓 Education
+
+## Politeknik Negeri Batam
+Software Engineering  
+2025 - Present
+
+## SMK Negeri Example
+Computer & Network Engineering  
+2022 - 2025
+
+## SMA Example
+2019 - 2022
+
+---
